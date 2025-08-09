@@ -45,8 +45,6 @@ Connect to the Windows instance using RDP.</br>
 
 ## S3 BUCKET CREATION:  
 ![Screenshot 2024-08-29 110348](https://github.com/user-attachments/assets/27510999-6a37-4eff-9cc6-126292f74037)
-![cc ex2 3](https://github.com/user-attachments/assets/85a6baef-5db6-4df5-9643-cfcf57e9fce3)
-![cc ex2 2](https://github.com/user-attachments/assets/0cc92166-dc2f-4b54-830b-880c783fe007)
 
 ## EC2:
 ![cc ex2 4](https://github.com/user-attachments/assets/2e0d9f1a-0e39-4a4b-a350-38d7a028bf08)
